@@ -12,7 +12,7 @@ FROM dotenvlinter/dotenv-linter:3.1.0 as dotenv-linter
 FROM mstruebing/editorconfig-checker:2.3.5 as editorconfig-checker
 FROM yoheimuta/protolint:v0.32.0 as protolint
 FROM golangci/golangci-lint:v1.40.1 as golangci-lint
-FROM koalaman/shellcheck:v0.7.2 as shellcheck
+FROM koalaman/shellcheck:v0.8.0 as shellcheck
 FROM wata727/tflint:0.29.1 as tflint
 FROM alpine/terragrunt:1.0.0 as terragrunt
 FROM mvdan/shfmt:v3.3.0 as shfmt

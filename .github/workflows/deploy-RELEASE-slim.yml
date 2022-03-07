@@ -45,7 +45,7 @@ jobs:
       # Checkout the code base #
       ##########################
       - name: Checkout Code
-        uses: actions/checkout@v2.3.4
+        uses: actions/checkout@v3
 
       #######################################################
       # Create a GitHub Issue with the info from this build #

@@ -24,7 +24,7 @@ FROM garethr/kubeval:0.15.0 as kubeval
 ##################
 # Get base image #
 ##################
-FROM python:3.9-alpine as base_image
+FROM python:3.11-alpine as base_image
 
 ################################
 # Set ARG values used in Build #

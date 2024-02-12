@@ -1,7 +1,7 @@
 {
   "name": "super-linter",
   "dependencies": {
-    "@stoplight/spectral": "^5.9.1",
+    "@stoplight/spectral": "^6.5.0",
     "@coffeelint/cli": "^5.0.1",
     "@typescript-eslint/parser": "^4.26.1",
     "@typescript-eslint/eslint-plugin": "^4.26.1",
@@ -25,7 +25,7 @@
     "lodash": "^4.17.21",
     "markdownlint-cli": "^0.27.1",
     "node-fetch": "^2.6.1",
-    "npm-groovy-lint": "^8.2.0",
+    "npm-groovy-lint": "^14.0.0",
     "prettier": "^2.3.1",
     "prettyjson": "^1.2.1",
     "pug": "^3.0.1",

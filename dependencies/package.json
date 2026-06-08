@@ -22,7 +22,7 @@
     "ini": "^2.0.0",
     "jscpd": "^3.3.26",
     "jsonlint": "^1.6.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "markdownlint-cli": "^0.27.1",
     "node-fetch": "^2.6.1",
     "npm-groovy-lint": "^8.2.0",
